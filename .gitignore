@@ -1,0 +1,5 @@
+bot.log
+signals_log.csv
+performance_log.csv
+__pycache__/
+*.pyc
